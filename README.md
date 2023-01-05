@@ -1,6 +1,6 @@
-### 👋 Hi, I’m Nicholas Pinheiro
+## 👋 Hi, I’m Nicholas Pinheiro
 
-### About
+## About
 I am a web developer
 
 ## Current stack
@@ -8,7 +8,7 @@ I am a web developer
 - Frontend: 'HTML5', 'CSS3', 'JavaScript'
 - Tools: 'VsCode'
 
-### Contacts
+## Contacts
 - 📫 My email: nicholasvpinheiro@gmail.com
 - 👥 LinkedIn: https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/
 
