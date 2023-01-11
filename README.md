@@ -8,7 +8,7 @@ I am a web developer
 - Frontend: 'HTML5', 'CSS3', 'JavaScript'
 - Tools: 'VsCode'
 ## Me
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholasvp)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholasvp&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## Contacts
 - 📫 My email: nicholasvpinheiro@gmail.com
 - 👥 LinkedIn: https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/
