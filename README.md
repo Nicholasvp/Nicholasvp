@@ -9,7 +9,15 @@ Taking on more complex and challenging projects, </br>
 - Main Language: 'Javascript'
 - Frontend: 'HTML5', 'CSS3', 'JavaScript'
 - Tools: 'VsCode'
-- 
+
+</br>
+</br>
+
+<div>
+  <a href="https://github.com/nicholasvp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholasvp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
 </br>
 </br>
 
