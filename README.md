@@ -7,7 +7,7 @@ Taking on more complex and challenging projects, </br>
 
 ## 💻Current stack
 - Main Language: 'Javascript'
-- Frontend: 'HTML5', 'CSS3', 'JavaScript'
+- Frontend: 'HTML5', 'CSS3', 'JavaScript', 'REACT'
 - Tools: 'VsCode'
 
 </br>
