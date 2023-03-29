@@ -1,12 +1,13 @@
 ## 👋 Hi, I’m Nicholas Pinheiro
 
 ## 👤About
-I'm a web developer who wants to advance his career </br>
+I'm a flutter developer who wants to advance his career </br>
 Expand my skills and knowledge, </br>
 Taking on more complex and challenging projects, </br>
 
 ## 💻Current stack
-- Main Language: 'Javascript'
+- Main Language: 'Flutter'
+- Mobile: 'Flutter',
 - Frontend: 'HTML5', 'CSS3', 'JavaScript', 'REACT'
 - Tools: 'VsCode'
 
