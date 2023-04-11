@@ -6,11 +6,7 @@ Expand my skills and knowledge, </br>
 Taking on more complex and challenging projects, </br>
 
 ## 💻Current stack
-- Main Language: 'Flutter'
-- Mobile: 'Flutter',
-- Frontend: 'HTML5', 'CSS3', 'JavaScript', 'REACT'
-- Tools: 'VsCode'
-
+- Dart && Flutter
 </br>
 </br>
 
