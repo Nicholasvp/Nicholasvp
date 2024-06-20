@@ -1,20 +1,27 @@
-## 👋 Hi, I’m Nicholas Pinheiro
+<h1>Hi there, I'm Nicholas Pinheiro</h1>
 
-## 👤About
-I'm a software engineer who wants to advance his career </br>
-Expand my skills and knowledge, </br>
-Taking on more complex and challenging projects, </br>
-<div> 
-  <a href="https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nicholasvpinheiron@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/nicholasvinicius_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<h3>🤙 How are you? I hope you are well, welcome to my profile.</h3>
 
-## 💻Current stack
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-</br>
-</br>
+<img height="140em" align="right" src="https://user-images.githubusercontent.com/59374587/153518639-7a26f075-9621-4c47-bae8-e46c957d09a7.png"/>
 
+<p>
 
+- 👨‍💻 Flutter Developer & Technology Enthusiast focused on developing innovative
+ 
+- 💬 Ask me about everything, I always enjoy helping people.
 
+- 👊 Driven by concrete goals and well-defined goals. I will make it happen.
 
+</p>
+
+ ---
+ 
+   <div style="text-align: left;">
+ 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicholasvp&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasvp&theme=dark"/>
+  <br>
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasvp&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
+  <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicholasvp&theme=monokai"/>
+
+   </div>
