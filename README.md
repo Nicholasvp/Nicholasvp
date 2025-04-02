@@ -15,13 +15,3 @@
 </p>
 
  ---
- 
-   <div style="text-align: left;">
- 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicholasvp&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasvp&theme=dark"/>
-  <br>
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasvp&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
-  <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicholasvp&theme=monokai"/>
-
-   </div>
